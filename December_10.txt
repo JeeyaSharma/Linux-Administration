@@ -1,0 +1,8 @@
+1) Enter root directory: cd /
+2) Enter bin directory in root: cd /bin
+3) Enlist all of the files in bin: ls
+4) Enter sbin: cd /sbin
+5) Enlist all of the files in bin: ls
+6) ls -r : prints directory names in reverse
+7) ls -l : shows all the logs for the directories
+8) 
